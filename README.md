@@ -10,13 +10,13 @@ Programa desenvolvido para calcular a quantidade de tinta necessária para pinta
 
 ![Badge](https://img.shields.io/static/v1?label=VScode&message=IDE/editor&color=blue&style=plastic&logo=vsco)
 
-![Badge](https://img.shields.io/static/v1?label=C#.&message=language&color=yellow&style=plastic&logo=csharp)
+![Badge](https://img.shields.io/static/v1?label=Csharp&message=language&color=yellow&style=plastic&logo=csharp)
 
 ## Como executar o programa :arrow_forward:
 
 No Git Bash, faça um clone do projeto:
 
-  > *git clone *
+  > *git clone https://github.com/tonybusma/CalculadoraDeTinta.git*
 
 Acesse a pasta do projeto:
 
