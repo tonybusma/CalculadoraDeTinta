@@ -1,0 +1,16 @@
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\obj\Debug\net5.0\CalculadoraDeTinta.csproj.AssemblyReference.cache
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\obj\Debug\net5.0\CalculadoraDeTinta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\obj\Debug\net5.0\CalculadoraDeTinta.AssemblyInfoInputs.cache
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\obj\Debug\net5.0\CalculadoraDeTinta.AssemblyInfo.cs
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\obj\Debug\net5.0\CalculadoraDeTinta.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\bin\Debug\net5.0\CalculadoraDeTinta.exe
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\bin\Debug\net5.0\CalculadoraDeTinta.deps.json
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\bin\Debug\net5.0\CalculadoraDeTinta.runtimeconfig.json
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\bin\Debug\net5.0\CalculadoraDeTinta.runtimeconfig.dev.json
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\bin\Debug\net5.0\CalculadoraDeTinta.dll
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\bin\Debug\net5.0\ref\CalculadoraDeTinta.dll
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\bin\Debug\net5.0\CalculadoraDeTinta.pdb
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\obj\Debug\net5.0\CalculadoraDeTinta.dll
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\obj\Debug\net5.0\ref\CalculadoraDeTinta.dll
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\obj\Debug\net5.0\CalculadoraDeTinta.pdb
+D:\Workspace\C#\Projetos\CalculadoraDeTinta\obj\Debug\net5.0\CalculadoraDeTinta.genruntimeconfig.cache
