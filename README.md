@@ -8,7 +8,7 @@ Programa desenvolvido para calcular a quantidade de tinta necessária para pinta
 
 ## Ferramentas de desenvolvimento :computer:
 
-![Badge](https://img.shields.io/static/v1?label=VScode&message=IDE/editor&color=blue&style=plastic&logo=vsco)
+![Badge](https://img.shields.io/static/v1?label=VScode&message=IDE/editor&color=blue&style=plastic&logo=visualstudiocode)
 
 ![Badge](https://img.shields.io/static/v1?label=Csharp&message=language&color=yellow&style=plastic&logo=csharp)
 
